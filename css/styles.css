@@ -47,7 +47,7 @@
     color: #4d5ae5;
 }
 .menu-link {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto','open sans',var(--second-font-family);
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -59,7 +59,7 @@
     font-style: normal;
 }
 .address-link {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto','open sans', var(--second-font-family);
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -68,7 +68,7 @@
     color: #434455;
 }
 .hero-title {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto','open sans' var(--second-font-family);
     font-style: normal;
     font-weight: 700;
     font-size: 56px;
@@ -81,7 +81,8 @@
     background: #2E2F42;
 }
 .hero-btn-studio {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto',
+        'open sans' var(--second-font-family);
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -100,7 +101,8 @@
     visibility: hidden;
 }
 .first-sec-title {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto',
+        'open sans' var(--second-font-family);
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -109,7 +111,8 @@
     color: #2E2F42;
 }
 .first-sec-parag {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto',
+        'open sans' var(--second-font-family);
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -119,7 +122,8 @@
     color: #434455;
 }
 .second-sec {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto',
+        'open sans' var(--second-font-family);
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -134,7 +138,8 @@
     background: #F4F4FD;
 }
 .third-sec-title {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto',
+        'open sans' var(--second-font-family);
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -149,7 +154,8 @@
     background-color: #FFFFFF;
 }
 .third-sec-name {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto',
+        'open sans' var(--second-font-family);
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -160,7 +166,8 @@
     color: #2E2F42;
 }
 .third-sec-desc {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto',
+        'open sans' var(--second-font-family);
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -194,7 +201,8 @@
     color: #404BBF
 }
 .hero-btn {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto',
+        'open sans' var(--second-font-family);
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -213,7 +221,8 @@
     background: #404BBF;
 }
 .portfolio-list-title {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto',
+        'open sans' var(--second-font-family);
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -223,7 +232,8 @@
     color: #2E2F42;
 }
 .portfolio-list-desc {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto',
+        'open sans' var(--second-font-family);
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -233,7 +243,8 @@
     color: #434455;
 }
 .footer-desc {
-    font-family: var(--second-font-family);
+    font-family: 'Roboto',
+        'open sans' var(--second-font-family);
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
