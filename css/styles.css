@@ -70,7 +70,7 @@
     font-style: normal;
 }
 .address-link {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -101,26 +101,17 @@
     letter-spacing: 0.04em;
     color: #FFFFFF;
     background: #4D5AE5;
+    cursor: pointer;
 }
 .hero-btn-studio:hover,
 .hero-btn-studio:focus {
     background: #404BBF;
 }
-.visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    margin: -1px;
-    border: 0;
-    padding: 0;
-
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
+.hide {
+    visibility: hidden;
 }
 .first-sec-title {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -129,7 +120,7 @@
     color: #2E2F42;
 }
 .first-sec-parag {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -139,7 +130,7 @@
     color: #434455;
 }
 .second-sec {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -154,7 +145,7 @@
     background: #F4F4FD;
 }
 .third-sec-title {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
@@ -169,7 +160,7 @@
     background-color: #FFFFFF;
 }
 .third-sec-name {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -180,7 +171,7 @@
     color: #2E2F42;
 }
 .third-sec-desc {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -214,7 +205,7 @@
     color: #404BBF
 }
 .hero-btn {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -225,6 +216,7 @@
     letter-spacing: 0.04em;
     color: #4D5AE5;
     background: #F4F4FD;
+    cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn:focus {
@@ -232,7 +224,7 @@
     background: #404BBF;
 }
 .portfolio-list-title {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
@@ -242,7 +234,7 @@
     color: #2E2F42;
 }
 .portfolio-list-desc {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -252,12 +244,12 @@
     color: #434455;
 }
 .footer-desc {
-    font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
     
-        color: #F4F4FD;
+    color: #F4F4FD;
 }
