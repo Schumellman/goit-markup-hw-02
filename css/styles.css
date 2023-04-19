@@ -193,6 +193,9 @@
 .logo-link-footer:focus {
     color: #404BBF
 }
+.all-content {
+    font-family: "Roboto", sans-serif;
+}
 .hero-btn {
     font-family: 'Roboto','open sans';
     font-style: normal;
