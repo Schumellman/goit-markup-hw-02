@@ -4,10 +4,6 @@
 .list {
     list-style: none;
 }
-/* .link:hover, */
-/* .link:focus { */
-    /* color: var(--color-ocean); */
-/* } */
 .inter:hover,
 .inter:focus {
     color: var(--color-ocean);
