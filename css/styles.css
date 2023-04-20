@@ -7,15 +7,9 @@
 /* .link:hover, */
 /* .link:focus { */
     /* color: var(--color-ocean); */
-}
-.hover:hover,
-.hover:focus {
-    color: var(--color-ocean);
-}
-.logo-web:hover,
-.logo-web:focus,
-.logo-web:hover,
-.logo-web:focus {
+/* } */
+.inter:hover,
+.inter:focus {
     color: var(--color-ocean);
 }
 :root {
@@ -28,11 +22,13 @@
     --color-white: #ffffff;
     --color-ocean: #404BBF;
 }
+/* studio */
 body {
     font-family: var(--main-font-family);
     color: var(--color-slate);
     background-color:var(--color-white);
 }
+/* Logo studio */
 .logo-web-studio {
     color: var(--color-navy-blue);
 }
@@ -45,6 +41,7 @@ body {
     text-transform: uppercase;
     color: var(--color-iris);
 }
+/* Navigation on studio */
 .menu-link {
     font-weight: 500;
     font-size: 16px;
@@ -61,6 +58,7 @@ body {
     letter-spacing: 0.02em;
     color: var(--color-slate);
 }
+/* Hero */
 .hero-title {
     font-weight: 700;
     font-size: 56px;
@@ -86,10 +84,12 @@ body {
 .hero-btn-studio:focus {
     background: var(--color-ocean);
 }
+/* Hidden title */
 .hide {
     visibility: hidden;
 }
-.first-sec-title {;
+/* Section 1 */
+.first-sec-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -102,6 +102,7 @@ body {
     letter-spacing: 0.02em;
     color: var(--color-slate);
 }
+/* Section 2 */
 .second-sec {
     font-weight: 700;
     font-size: 36px;
@@ -111,6 +112,7 @@ body {
     text-transform: capitalize;
     color: var(--color-navy-blue);
 }
+/* Section 3 */
 .third-sec {
     background: var(--color-cloud);
 }
@@ -139,6 +141,7 @@ body {
     letter-spacing: 0.02em;
     color: var(--color-slate);
 }
+/* Footer */
 .footer {
     background: var(--color-navy-blue);
 }
