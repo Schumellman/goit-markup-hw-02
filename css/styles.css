@@ -4,8 +4,12 @@
 .list {
     list-style: none;
 }
-.link:hover,
-.link:focus {
+/* .link:hover, */
+/* .link:focus { */
+    /* color: var(--color-ocean); */
+}
+.hover:hover,
+.hover:focus {
     color: var(--color-ocean);
 }
 .logo-web:hover,
@@ -48,6 +52,9 @@ body {
     letter-spacing: 0.02em;
     color: var(--color-navy-blue);
 }
+.address {
+    font-style: normal;
+}
 .address-link {
     font-size: 16px;
     line-height: 1.5;
@@ -57,6 +64,7 @@ body {
 .hero-title {
     font-weight: 700;
     font-size: 56px;
+    text-align: center;
     line-height: 1.07; 
     letter-spacing: 0.02em;
     color: var(--color-white);
@@ -65,6 +73,7 @@ body {
     background: var(--color-navy-blue);
 }
 .hero-btn-studio {
+    font-family: var(--main-font-family);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -96,6 +105,7 @@ body {
 .second-sec {
     font-weight: 700;
     font-size: 36px;
+    text-align: center;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -107,6 +117,7 @@ body {
 .third-sec-title {
     font-weight: 700;
     font-size: 36px;
+    text-align: center;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -148,6 +159,7 @@ body {
     color: var(--color-ocean);
 }
 .hero-btn {
+    font-family: var(--main-font-family);
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
